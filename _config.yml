@@ -1,0 +1,28 @@
+name: 'Qualified Inspections, Inc.'
+favicon: null
+layout_spectrum: 0.8972444687969983
+typography_spectrum: 0.3467192023526877
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.43183989194221795
+  lightness: 0.15236445236951113
+  saturation: 0.15174472308717668
+  rhythmicContrast: 0.7950983706396073
+purpose: []
