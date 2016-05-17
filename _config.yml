@@ -1,6 +1,6 @@
 name: 'Qualified Inspections, Inc.'
 favicon: null
-layout_spectrum: 0.48088
+layout_spectrum: 0.67844
 typography_spectrum: 0.8268
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.43183989194221795
-  lightness: 0.15236445236951113
+  brandStrength: 0.8125
+  lightness: 0.25
   saturation: 0.15174472308717668
   rhythmicContrast: 0.7950983706396073
 purpose: []
